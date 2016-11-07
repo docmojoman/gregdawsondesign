@@ -1,0 +1,113 @@
+/*STYLES FOR BODY AND TABLES*/
+body {
+	margin: 10% 20% 45px 0px;
+	color: #FFFFFF;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	}
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	white-space: nowrap;
+	}
+/*STYLES FOR GLOBAL*/
+td#beaker {
+	color: #FFFFFF;
+	padding: 0px 0px 0px 300px;
+	background: #FFFFFF url(../z-images/beaker.jpg) no-repeat -50px 10px;
+	}
+td#a {
+	font-size: 21px;
+	color: #F96610;
+	background: transparent none;
+	padding: 0px 0px 5px 0px;
+	}
+td#a1 {
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #F96610;
+	background: transparent none;
+	padding: 0px 0px 20px 2px;
+	}
+td#a2 {
+	font-size: 12px;
+	color: #555555;
+	background: transparent none;
+	padding: 0px 0px 0px 2px;
+	white-space: normal;
+	}
+td#a2-1 {
+	font-size: 12px;
+	color: #555555;
+	background: transparent none;
+	padding: 20px 0px 0px 2px;
+	white-space: normal;
+	}
+td#a3 {
+	font-size: 18px;
+	color: #555555;
+	background: transparent none;
+	padding: 6px 7px 0px 0px;
+	white-space: normal;
+	}
+td#a3-1 {
+	font-size: 14px;
+	color: #555555;
+	background: transparent none;
+	padding: 0px 7px 0px 0px;
+	white-space: normal;
+	}
+td#a4 {
+	color: #555555;
+	background: transparent none;
+	padding: 2px 0px 0px 0px;
+	white-space: normal;
+	}
+td#a4-1 {
+	font-size: 8px;
+	color: #FFFFFF;
+	background: transparent none;
+	padding: 0px 0px 0px 0px;
+	white-space: normal;
+	}
+td#a5 {
+	font-size: 12px;
+	color: #555555;
+	background: transparent none;
+	padding: 20px 0px 0px 2px;
+	white-space: normal;
+	}
+.a6 {
+	font-size: 12px;
+	font-weight: normal;
+	letter-spacing: 0px;
+	text-decoration: underline;
+	color: #F96610;
+	background: transparent none;
+	}
+td#a7 {
+	color: #A9A9A9;
+	background: #000000;
+	border-bottom: 1px solid #FFFFFF;
+	}
+td#a8 {
+	color: #555555;
+	background: transparent none;
+	padding: 0px 75px 0px 0px;
+	}
+td#a9 {
+	font-size: 13px;
+	font-style: italic;
+	color: #555555;
+	background: transparent none;
+	padding: 0px 0px 20px 2px;
+	white-space: normal;
+	}
+.a11 {
+	font-size: 21px;
+	color: #666666;
+	background: transparent none;
+	}
